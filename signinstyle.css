@@ -1,0 +1,27 @@
+.main-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+.form-container
+{
+  max-width: 28rem;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  
+}
+.heading{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+.dd{
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,10 +1,4 @@
-# **CSE-3501 ISAA LAB ASSIGNMENT - 5**
 
-****
-K Madhu Sudhan
-
-19BCE0483
-****
 ****
 Learner/Content Management System written in HTML5, CSS3, Javascript(with jQuery). Most of the styling has been done with Bootstrap 5 with a focus on clean, clutter free UI and responsive design. The backend is handled by PHP8 and the data is stored in a MySQL database. Also supports role based access privileges, the following 2 roles are available
 <br><br>
